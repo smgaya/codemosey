@@ -1,1 +1,2 @@
-* Here is sample codeigniter app *
+* Here is sample codeigniter app 
+* am in moses
